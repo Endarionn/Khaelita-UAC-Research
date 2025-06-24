@@ -1,3 +1,7 @@
+
+
+![180b09c3-4d22-4c24-a4b0-4bc1df2b74b7](https://github.com/user-attachments/assets/b7b766bc-fc51-48be-9e39-2f8389d46b76)
+
 # 🧬 Khaelita UAC Research
 
 > Proof-of-Concept implementation of a well-known UAC bypass technique using `fodhelper.exe`, written in pure C.
