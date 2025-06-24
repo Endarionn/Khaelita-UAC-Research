@@ -1,0 +1,7 @@
+C:\Users\ygzat\Masaüstü\Projects\C#\Khaelita UAC\Khaelita UAC\bin\x64\Debug\Khaelita UAC.exe.config
+C:\Users\ygzat\Masaüstü\Projects\C#\Khaelita UAC\Khaelita UAC\bin\x64\Debug\Khaelita UAC.exe
+C:\Users\ygzat\Masaüstü\Projects\C#\Khaelita UAC\Khaelita UAC\bin\x64\Debug\Khaelita UAC.pdb
+C:\Users\ygzat\Masaüstü\Projects\C#\Khaelita UAC\Khaelita UAC\obj\x64\Debug\Khaelita UAC.csproj.AssemblyReference.cache
+C:\Users\ygzat\Masaüstü\Projects\C#\Khaelita UAC\Khaelita UAC\obj\x64\Debug\Khaelita UAC.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Masaüstü\Projects\C#\Khaelita UAC\Khaelita UAC\obj\x64\Debug\Khaelita UAC.exe
+C:\Users\ygzat\Masaüstü\Projects\C#\Khaelita UAC\Khaelita UAC\obj\x64\Debug\Khaelita UAC.pdb
